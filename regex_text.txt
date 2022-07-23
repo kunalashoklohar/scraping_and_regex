@@ -1,0 +1,109 @@
+hello my name is kunal. hellllo
+    zzz                     kunal 
+    zzzzzzzzzzzzzz
+    hello  $123$
+     opo .123.
+     .123$
+     .12344.
+    #12
+    #123
+    travelling from pune to mumbai pune
+    travelling from pune to nashik pune
+    travelling from pune to mumbai nashik
+
+oho
+ohh!
+ohhhho!
+I love race cars bike. taste the bite and give the test .ohh! its tasty
+kunal@gmail.com
+galaxy007@gmail.com
+ratan@patona.au
+galaxy and galaxies
++91-8380044784 
+7507502277
++92-8380044784
+
+they'r there their 
+i live in pune.
+he lives in mumbai.
+i am travelling to pune from mumbai.
+he is travelling to bangalore from kochi.
+[kunal]
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+1234567890
+
+profit at 2022 Q1 $22k
+profit at 2022 Q2 $20k
+Ha HaHa
+
+Dr. kunal
+Dr    kunal
+Dr. krunal
+Dr Mrunal
+Dr Mrunali
+Dr satish
+
+
+
+
+
+
+
+
+MetaCharacters (Need to be escaped):
+.[{()\^$|?*+
+
+_--------------Rules--------------------------
+
+Wild character --
+      \w
+      \d
+      \s
+      \.
+
+Groups
+matches single character from the group
+        []
+        [^] 
+        ()      
+Quantifiers
+     {n,m} 
+     *
+     +
+     ?      
+
+Anchors     
+
+
+.       - Any Character Except New Line
+\d      - Digit (0-9)
+\D      - Not a Digit (0-9)
+\w      - Word Character (a-z, A-Z, 0-9, _)
+\W      - Not a Word Character
+\s      - Whitespace (space, tab, newline)
+\S      - Not Whitespace (space, tab, newline)
+
+\b      - Word Boundary
+\B      - Not a Word Boundary
+^       - Beginning of a String
+$       - End of a String
+
+[]      - Matches Characters in brackets
+[^ ]    - Matches Characters NOT in brackets
+|       - Either Or
+( )     - Group
+
+Quantifiers:
+*       - 0 or More
++       - 1 or More
+?       - 0 or One
+{3}     - Exact Number
+{3,4}   - Range of Numbers (Minimum, Maximum)
+
+
+#### Sample Regexs ####
+
+[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+
+
+Dr\.?\s+[km]r?unal$
